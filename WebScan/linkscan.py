@@ -135,7 +135,7 @@ class StatusCode(object):
         if stat == 200:
             return stat
         elif stat == 'ReadTimeout':
-            # requests longtime request for ReadTimeout
+            # requests longtime request after ReadTimeout
             sleep(1)
             stat = self.requests_code(link, proxy, 20)
         print('link: %s------>>>>%s' % (link, stat))

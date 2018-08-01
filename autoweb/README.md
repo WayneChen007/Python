@@ -26,6 +26,7 @@ Example:
     a.exit_browser()
 
 Change History:
+
     Version 1.0.2       2017.9.14
     * Identify lowercase parameters.
     * Support with the command to open the Config file, one-click installation.

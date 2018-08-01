@@ -1,0 +1,72 @@
+[2018-02-01 07:00:07] [INFO] Start scanning  url= http://br.hao123.com/
+[2018-02-01 07:00:34] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-02-01 07:00:34] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-02-01 07:00:34] [INFO] End scanning
+[2018-02-01 07:00:37] [INFO] Start scanning  url= http://th.hao123.com/
+[2018-02-01 07:01:01] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-02-01 07:01:02] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-02-01 07:01:02] [INFO] End scanning
+[2018-02-01 07:01:04] [INFO] Start scanning  url= http://id.hao123.com/
+[2018-02-01 07:01:39] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-02-01 07:01:39] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-02-01 07:01:39] [INFO] End scanning
+[2018-02-01 07:01:42] [INFO] Start scanning  url= http://sa.hao123.com/
+[2018-02-01 07:02:05] [INFO] 找到aTAG数: 469个
+[2018-02-01 07:02:05] [INFO] 找到imgTAG数: 99个
+[2018-02-01 07:03:12] <ReadTimeout> http://br.hao123.com/?from=siteswitch
+[2018-02-01 07:09:05] <ProxyError> https://www.imamu.edu.sa/
+[2018-02-01 07:20:38] [INFO] End scanning
+[2018-02-01 07:20:41] [INFO] Start scanning  url= http://us.hao123.com/
+[2018-02-01 07:21:18] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-02-01 07:21:19] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-02-01 07:21:19] [INFO] End scanning
+[2018-02-01 07:21:21] [INFO] Start scanning  url= http://ar.hao123.com/
+[2018-02-01 07:21:48] [INFO] 找到aTAG数: 371个
+[2018-02-01 07:21:48] [INFO] 找到imgTAG数: 47个
+[2018-02-01 07:32:51] <ConnectionError> http://www.icareeregypt.com/
+[2018-02-01 07:38:53] [INFO] End scanning
+[2018-02-01 07:38:56] [INFO] Start scanning  url= http://jp.hao123.com/
+[2018-02-01 07:39:31] [INFO] 找到aTAG数: 449个
+[2018-02-01 07:39:31] [INFO] 找到imgTAG数: 114个
+[2018-02-01 07:54:47] [INFO] End scanning
+[2018-02-01 07:54:52] [INFO] Start scanning  url= http://jp.hao123.com/games
+[2018-02-01 07:55:15] [INFO] 找到aTAG数: 314个
+[2018-02-01 07:55:15] [INFO] 找到imgTAG数: 228个
+[2018-02-01 08:12:22] [INFO] End scanning
+[2018-02-01 08:12:25] [INFO] Start scanning  url= http://jp.hao123.com/yahoo-search?query=&pn=1
+[2018-02-01 08:12:53] [INFO] 找到aTAG数: 19个
+[2018-02-01 08:12:53] [INFO] 找到imgTAG数: 4个
+[2018-02-01 08:13:36] [INFO] End scanning
+[2018-02-01 08:13:42] [INFO] Start scanning  url= http://jp.hao123.com/shopping
+[2018-02-01 08:13:58] [INFO] 找到aTAG数: 181个
+[2018-02-01 08:13:58] [INFO] 找到imgTAG数: 5个
+[2018-02-01 08:16:54] [INFO] End scanning
+[2018-02-01 08:16:57] [INFO] Start scanning  url= http://de.hao123.com/
+[2018-02-01 08:17:23] [INFO] 找到aTAG数: 35个
+[2018-02-01 08:17:23] [INFO] 找到imgTAG数: 10个
+[2018-02-01 08:19:01] [INFO] End scanning
+[2018-02-01 08:19:06] [INFO] Start scanning  url= http://en.hao123.com/
+[2018-02-01 08:19:30] [INFO] 找到aTAG数: 221个
+[2018-02-01 08:19:30] [INFO] 找到imgTAG数: 219个
+[2018-02-01 08:23:35] [INFO] End scanning
+[2018-02-01 08:23:38] [INFO] Start scanning  url= http://fr.hao123.com/
+[2018-02-01 08:24:04] [INFO] 找到aTAG数: 35个
+[2018-02-01 08:24:04] [INFO] 找到imgTAG数: 10个
+[2018-02-01 08:25:28] [INFO] End scanning
+[2018-02-01 08:25:31] [INFO] Start scanning  url= http://uk.hao123.com/
+[2018-02-01 08:25:55] [INFO] 找到aTAG数: 413个
+[2018-02-01 08:25:55] [INFO] 找到imgTAG数: 358个
+[2018-02-01 08:29:45] <ProxyError> https://images.fandango.com/r1.0.127/ImageRenderer/111/168/images/no_image_111x168.jpg/201665/images/masterrepository/fandango/201665/thestrangeones2017.jpg
+[2018-02-01 08:34:59] [INFO] End scanning
+[2018-02-01 08:35:04] [INFO] Start scanning  url= http://vn.hao123.com/
+[2018-02-01 08:35:37] [INFO] 找到aTAG数: 61个
+[2018-02-01 08:35:37] [INFO] 找到imgTAG数: 4个
+[2018-02-01 08:37:32] [INFO] End scanning
+[2018-02-01 08:37:35] [INFO] Start scanning  url= http://tw.hao123.com/
+[2018-02-01 08:38:13] [INFO] 找到aTAG数: 310个
+[2018-02-01 08:38:13] [INFO] 找到imgTAG数: 36个
+[2018-02-01 08:49:31] [INFO] End scanning
+[2018-02-01 08:49:34] [INFO] Start scanning  url= http://kr.hao123.com/
+[2018-02-01 08:50:00] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-02-01 08:50:01] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-02-01 08:50:01] [INFO] End scanning

@@ -1,0 +1,91 @@
+[2018-01-31 11:30:03] [INFO] Start scanning  url= http://br.hao123.com/
+[2018-01-31 11:30:37] [INFO] 找到aTAG数: 318个
+[2018-01-31 11:30:38] [INFO] 找到imgTAG数: 229个
+[2018-01-31 11:40:21] <Response [404]> http://www.hsbc.com.br/1/2/1/2
+[2018-01-31 11:42:19] [INFO] End scanning
+[2018-01-31 11:42:22] [INFO] Start scanning  url= http://th.hao123.com/
+[2018-01-31 11:42:47] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-01-31 11:42:47] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-01-31 11:42:47] [INFO] End scanning
+[2018-01-31 11:42:50] [INFO] Start scanning  url= http://id.hao123.com/
+[2018-01-31 11:43:15] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-01-31 11:43:15] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-01-31 11:43:15] [INFO] End scanning
+[2018-01-31 11:43:18] [INFO] Start scanning  url= http://sa.hao123.com/
+[2018-01-31 11:43:42] [INFO] 找到aTAG数: 467个
+[2018-01-31 11:43:42] [INFO] 找到imgTAG数: 97个
+[2018-01-31 11:50:16] <ProxyError> https://www.imamu.edu.sa/
+[2018-01-31 11:51:10] <Response [520]> http://www.ksa-teachers.com/library/
+[2018-01-31 11:56:38] <Response [500]> http://www.airarabia.com/en
+[2018-01-31 12:02:25] [INFO] End scanning
+[2018-01-31 12:02:28] [INFO] Start scanning  url= http://us.hao123.com/
+[2018-01-31 12:03:02] [INFO] 找到aTAG数: 502个
+[2018-01-31 12:03:02] [INFO] 找到imgTAG数: 357个
+[2018-01-31 12:13:22] [INFO] End scanning
+[2018-01-31 12:13:25] [INFO] Start scanning  url= http://ar.hao123.com/
+[2018-01-31 12:13:50] [INFO] 找到aTAG数: 372个
+[2018-01-31 12:13:51] [INFO] 找到imgTAG数: 48个
+[2018-01-31 12:31:54] [INFO] End scanning
+[2018-01-31 12:31:57] [INFO] Start scanning  url= http://jp.hao123.com/
+[2018-01-31 12:32:53] [INFO] 找到aTAG数: 444个
+[2018-01-31 12:32:53] [INFO] 找到imgTAG数: 109个
+[2018-01-31 12:33:38] [WARNING] 动态隐藏元素: <selenium.webdriver.remote.webelement.WebElement (session="ac187370-063f-11e8-9144-e16291ce8572", element=":wdc:1517373173721")>
+[2018-01-31 12:36:57] <Response [503]> http://h.accesstrade.net/sp/cc?rk=0100lr1i00c15z
+[2018-01-31 12:45:29] [WARNING] 动态隐藏元素: <selenium.webdriver.remote.webelement.WebElement (session="ac187370-063f-11e8-9144-e16291ce8572", element=":wdc:1517373173552")>
+[2018-01-31 12:50:08] [INFO] End scanning
+[2018-01-31 12:50:11] [INFO] Start scanning  url= http://jp.hao123.com/games
+[2018-01-31 12:50:51] [INFO] 找到aTAG数: 314个
+[2018-01-31 12:50:51] [INFO] 找到imgTAG数: 228个
+[2018-01-31 13:08:39] [INFO] End scanning
+[2018-01-31 13:08:42] [INFO] Start scanning  url= http://jp.hao123.com/yahoo-search?query=&pn=1
+[2018-01-31 13:09:10] [INFO] 找到aTAG数: 19个
+[2018-01-31 13:09:10] [INFO] 找到imgTAG数: 4个
+[2018-01-31 13:09:12] <ProxyError> https://d2omlw2afutcw7.cloudfront.net/request.png?zoneids=1082786,1082787
+[2018-01-31 13:09:12] <ProxyError> https://d2omlw2afutcw7.cloudfront.net/passback.png?slotid=criteo_1082787
+[2018-01-31 13:09:13] <ProxyError> https://d2omlw2afutcw7.cloudfront.net/passback.png?slotid=criteo_1082786
+[2018-01-31 13:09:55] [INFO] End scanning
+[2018-01-31 13:09:58] [INFO] Start scanning  url= http://jp.hao123.com/shopping
+[2018-01-31 13:10:19] [INFO] 找到aTAG数: 191个
+[2018-01-31 13:10:19] [INFO] 找到imgTAG数: 5个
+[2018-01-31 13:10:51] <Response [500]> http://goo.gl/GiId7
+[2018-01-31 13:11:09] <Response [500]> http://shopping.nifty.com/
+[2018-01-31 13:11:21] <Response [500]> http://www.net-life.org/
+[2018-01-31 13:11:51] <Response [400]> http://click.linksynergy.com/fs-bin/click?id=UzeZZ25oTMM&offerid=226451.10000080&type=3&subid=0
+[2018-01-31 13:12:01] <Response [400]> http://click.linksynergy.com/fs-bin/click?id=UzeZZ25oTMM&offerid=245629.10000438&type=4&subid=0
+[2018-01-31 13:12:05] <Response [400]> http://linksynergy.jrs5.com/fs-bin/click?id=UzeZZ25oTMM&offerid=303593.2&type=3&subid=0
+[2018-01-31 13:12:08] <Response [404]> http://www.jod.co.jp/webshop/
+[2018-01-31 13:12:39] <Response [503]> http://www.bestgate.net/
+[2018-01-31 13:12:55] <Response [403]> http://chirashibu.jp/index.html
+[2018-01-31 13:12:55] <Response [500]> http://chirashi.yahoo.co.jp/
+[2018-01-31 13:13:39] [INFO] End scanning
+[2018-01-31 13:13:42] [INFO] Start scanning  url= http://de.hao123.com/
+[2018-01-31 13:14:03] [INFO] 找到aTAG数: 35个
+[2018-01-31 13:14:03] [INFO] 找到imgTAG数: 10个
+[2018-01-31 13:15:35] [INFO] End scanning
+[2018-01-31 13:15:38] [INFO] Start scanning  url= http://en.hao123.com/
+[2018-01-31 13:16:02] [INFO] 找到aTAG数: 221个
+[2018-01-31 13:16:02] [INFO] 找到imgTAG数: 219个
+[2018-01-31 13:20:08] [INFO] End scanning
+[2018-01-31 13:20:11] [INFO] Start scanning  url= http://fr.hao123.com/
+[2018-01-31 13:20:32] [INFO] 找到aTAG数: 35个
+[2018-01-31 13:20:32] [INFO] 找到imgTAG数: 10个
+[2018-01-31 13:22:03] [INFO] End scanning
+[2018-01-31 13:22:07] [INFO] Start scanning  url= http://uk.hao123.com/
+[2018-01-31 13:22:29] [INFO] 找到aTAG数: 410个
+[2018-01-31 13:22:29] [INFO] 找到imgTAG数: 357个
+[2018-01-31 13:31:52] [INFO] End scanning
+[2018-01-31 13:31:55] [INFO] Start scanning  url= http://vn.hao123.com/
+[2018-01-31 13:32:30] [INFO] 找到aTAG数: 61个
+[2018-01-31 13:32:30] [INFO] 找到imgTAG数: 4个
+[2018-01-31 13:34:31] [INFO] End scanning
+[2018-01-31 13:34:34] [INFO] Start scanning  url= http://tw.hao123.com/
+[2018-01-31 13:35:04] [INFO] 找到aTAG数: 311个
+[2018-01-31 13:35:04] [INFO] 找到imgTAG数: 36个
+[2018-01-31 13:38:05] <Response [403]> http://eok.tw/a8
+[2018-01-31 13:38:32] <Response [403]> http://eok.tw/a9
+[2018-01-31 13:46:47] <Response [403]> http://eok.tw/a8
+[2018-01-31 13:46:49] [INFO] End scanning
+[2018-01-31 13:46:54] [INFO] Start scanning  url= http://kr.hao123.com/
+[2018-01-31 13:47:24] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-01-31 13:47:25] [WARNING] 找到0个链接，请检查网络和目标站点
+[2018-01-31 13:47:25] [INFO] End scanning

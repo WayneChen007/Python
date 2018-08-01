@@ -1,0 +1,3 @@
+[jp.hao123]
+url=http://jp.hao123.com/
+lastid=bottomRelax

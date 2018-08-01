@@ -1,0 +1,77 @@
+[br.hao123]
+url=http://br.hao123.com/
+lastid=j-sitemap
+vpn=America, Argentina
+
+[th.hao123]
+url=http://th.hao123.com/
+lastid=sort-games
+vpn=Asia, Thailand
+
+[id.hao123]
+url=http://id.hao123.com/
+lastid=sort-games
+vpn=Asia, Indonesia
+
+[sa.hao123]
+url=http://sa.hao123.com/
+lastid=gifts-list
+vpn=Africa, Egypt 1
+
+[us.hao123]
+url=http://us.hao123.com/
+lastid=j-tv-wrap
+vpn=America, USA - China Optimized 1
+
+[ar.hao123]
+url=http://ar.hao123.com/
+lastid=bottomLinks
+vpn=Africa, Egypt 1
+
+[jp.hao123]
+url=http://jp.hao123.com/
+lastid=bottomRelax
+vpn=Asia, Japan 2
+
+[jp.game]
+url=http://jp.hao123.com/games
+
+[jp.search]
+url=http://jp.hao123.com/yahoo-search?query=&pn=1
+
+[jp.shopping]
+url=http://jp.hao123.com/shopping
+
+[de.hao123]
+url=http://de.hao123.com/
+lastid=bottom-big-ad-switch
+vpn=Europe, Germany 1
+
+[en.hao123]
+url=http://en.hao123.com/
+lastid=j-sitemap
+vpn=Europe, United Kingdom 1
+
+[fr.hao123]
+url=http://fr.hao123.com/
+lastid=bottom-big-ad-switch
+vpn=Europe, France 3
+
+[uk.hao123]
+url=http://uk.hao123.com/
+lastid=j-tv-wrap
+vpn=Europe, United Kingdom 1
+
+[vn.hao123]
+url=http://vn.hao123.com/
+lastid=bottomLinks
+vpn=Asia, Vietnam
+
+[tw.hao123]
+url=http://tw.hao123.com/
+lastid=bottomLinks
+vpn=Asia, Taiwan
+
+[kr.hao123]
+url=http://kr.hao123.com/
+

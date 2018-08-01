@@ -1,12 +1,4 @@
-#! /usr/bin/env python3
-# -*- coding: utf-8 -*-
-# Author: Wayne Chen (QA)
-
-"""
-The purpose of this procedure is to make selenium easier to use.
-This program encapsulates the commonly used methods of selenium,
-and the less commonly used methods can use the selenium syntax
-behind the 'driver' variable.
+Autoweb
 
 Notes:
     This program is compatible with Python3.6 & Selenium3.8.1
@@ -71,15 +63,3 @@ Change History:
     Version 1.3.0       2018.2.7
     * Support for iOS.
     * Optimized file structure
-"""
-
-__author__ = 'Wayne Chen'
-__version__ = '1.3.0'
-
-
-from .actions import Action
-from .import initial
-from time import sleep
-from selenium.common import exceptions
-from selenium.webdriver.common.keys import Keys
-from selenium import webdriver

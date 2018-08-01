@@ -29,6 +29,7 @@ Flow Chart:
                         ------------
 
 Change History:
+
     Version 2.0.0       2018.01.10
         Reconstruct this script in response to PM requirements.
         Task: http://newicafe.baidu.com:80/issue/hao123-sz-3373/show?from=page
